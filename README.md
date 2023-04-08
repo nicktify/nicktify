@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nicolas Aguilar
-- 👀 I'm interested in tech, especially in the Apple ecosystem and DevOps.
+- 👀 I'm interested in tech, especially in AI and DevOps.
 - 🌱 I’m currently learning everything that I can
 - 💞️ I’m looking to collaborate on world changing technology
 - 📫 How to reach me aguilarnicolasivan@gmail.com
