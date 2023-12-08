@@ -1,9 +1,3 @@
-- 👋 Hi, I’m Nicolas Aguilar
-- 👀 I'm interested in tech, especially in AI and DevOps.
-- 💞️ I’m looking to collaborate on world changing technology
-- 📫 How to reach me aguilarnicolasivan@gmail.com
+I am a proactive Full Stack Developer with a strong passion for continuous learning. Currently employed at Capta Hydro, I specialize in constructing cloud solutions on AWS and contributing to the company's growth through the development of robust and scalable software solutions.
 
-<!---
-nicktify/nicktify is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My academic background initially led me to pursue law studies at university in 2019. However, I discovered my true calling lay in software development. Transitioning into this field in late 2020, I embarked on a self-taught journey, harnessing a variety of online learning platforms such as Coursera, edX, Harvard's CS50 MOOC, and Udemy courses. One pivotal resource that significantly shaped my foundational knowledge was the book 'Computer Science: An Interdisciplinary Approach' by Robert Sedgewick and Kevin Wayne. This resource offered me a comprehensive understanding of core computer science principles, propelling my growth as a developer.
